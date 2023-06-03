@@ -1,0 +1,271 @@
+/* HEADERS  */
+
+.custom-head
+{
+	box-shadow: 2px 2px 2px 2px #dedede;
+	border-left: 5px solid #f8b100 !important;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	
+	background: rgb(255,255,255); /* Old browsers */
+	background: -moz-linear-gradient(left,  rgba(255,255,255,1) 0%, rgba(66,139,202,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(255,255,255,1)), color-stop(100%,rgba(66,139,202,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left,  rgba(255,255,255,1) 0%,rgba(66,139,202,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left,  rgba(255,255,255,1) 0%,rgba(66,139,202,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left,  rgba(255,255,255,1) 0%,rgba(66,139,202,1) 100%); /* IE10+ */
+	background: linear-gradient(to right,  rgba(255,255,255,1) 0%,rgba(66,139,202,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#428bca',GradientType=1 ); /* IE6-9 */
+
+/* NUEVO */
+	background: #438bca;
+}
+
+.custom-head h3
+{
+	color: #428bca;
+	font-size: 1.8em;
+	font-family: sans;
+	font-weight: bold;
+	margin: 5px;
+	padding: 10px;
+/* NUEVO */
+	color: #ffffff;
+}
+
+.custom-head h4
+{
+	color: #fff;
+	font-size: 1.5em;
+	font-family: sans;
+	font-weight: bold;
+	margin: 5px;
+	padding: 10px;
+	border-left: 3px solid #9fcaef; 
+}
+
+.custom-head-5
+{
+	background: #eae9e8;
+	box-shadow: 2px 2px 2px 2px #dedede;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+.custom-head-6
+{
+	background: #e1ecf4;
+	box-shadow: 2px 2px 2px 2px #dedede;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.custom-head-2
+{
+	box-shadow: 2px 2px 2px 2px #dedede;
+	border-left: 5px solid #f8b100 !important;
+	border-top: 1px solid #dfdfdf !important;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+
+	background: rgb(66,139,202); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(66,139,202,1) 0%, rgba(255,255,255,1) 71%, rgba(255,255,255,1) 96%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(66,139,202,1)), color-stop(71%,rgba(255,255,255,1)), color-stop(96%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(66,139,202,1) 0%,rgba(255,255,255,1) 71%,rgba(255,255,255,1) 96%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(66,139,202,1) 0%,rgba(255,255,255,1) 71%,rgba(255,255,255,1) 96%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(66,139,202,1) 0%,rgba(255,255,255,1) 71%,rgba(255,255,255,1) 96%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(66,139,202,1) 0%,rgba(255,255,255,1) 71%,rgba(255,255,255,1) 96%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#428bca', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+
+.custom-head-2 h3
+{
+	color: #fff;
+	font-size: 1.6em;
+	font-family: sans;
+	font-weight: bold;
+	margin:5px;
+	padding:5px;
+}
+
+.custom-head-2 h4
+{
+	color: #428bca;
+	font-size: 1.2em;
+	font-family: sans;
+	font-weight: bold;
+	margin:5px;
+	padding:5px;
+}
+
+
+/* BOXES */
+.main-box
+{
+	border:0px solid #ccc;
+	background: #fff;	
+	box-shadow: 2px 2px 2px 2px #dedede;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+
+.main-box h5
+{
+	color: #428bca;
+	font-size: 0.9em;
+	font-family: sans;
+}
+
+.main-box-content
+{
+	display: block;
+	color: #428bca;
+	font-size: 1.1em;
+	font-family: sans;
+	text-align: center;
+	margin: auto;
+	vertical-align: middle;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+
+.main-box-content a
+{
+	color: #428bca;
+	font-size: 1.1em;
+	font-family: sans;
+	text-decoration: none;
+}
+
+/* CONTENTS */
+.img-footer
+{
+	color: #444; 
+	font-size: 0.7em; 
+	font-family: sans; 
+}
+
+/* HORIZONTAL DISTRIBUTION */
+.col-95
+{
+	display: inline-block;
+	width: 94%;
+}
+
+.col-80
+{
+	display: inline-block;
+	width: 79%;
+}
+
+.col-50
+{
+	display: inline-block;
+	width: 48%;
+}
+
+.col-20
+{
+	display: inline-block;
+	width: 19%;
+}
+
+.col-5
+{
+	display: inline-block;
+	width: 4%;
+}
+
+.width-60
+{
+	width: 60%;
+}
+
+.custom-left
+{
+	text-align: left;
+}
+
+.custom-justify
+{
+	text-align: justify;
+}
+
+
+/* VERTICAL DISTRIBUTION */
+.custom-valign-middle
+{
+	vertical-align: middle;
+}
+
+.custom-valign-top
+{
+	vertical-align: top;
+}
+
+
+/* SIZES */
+.size-200-px
+{
+	max-width: 200px;
+	min-width: 200px;
+}
+
+/**********************************************************
+ * TEMP
+ * *******************************************************/
+/*#module-17337,
+#module-17346,
+#module-17376,
+#module-17390,
+#module-17401 {
+	display: none;
+}*/
+
+.custom-body
+{
+	border:1px solid #d8d8d8;
+	border-top-left-radius: 6px;
+  	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	box-shadow: 6px 6px 4px #d8d8d8;
+	color: #5d5d5d;
+	line-height:28px; 
+	text-align: justify;
+}
+
+.custom-h2
+{
+	border-left: 5px solid #000000;
+	text-indent: 1%;
+	line-height: 25px;
+}
+
+/* Ismael: Cambios para corregir los problemas de elementos flotantes
+----------------------------------------------------------------------- */
+
+.path-course-view .content .summary .no-overflow { 
+	display:inline; 
+}
+.path-course-view .content .label .no-overflow { 
+	display:inline; 
+}
+.path-course-view .content .label .no-overflow h1,h2,h3,h4 {
+	overflow: hidden; 
+}
+.section li.activity
+{
+	clear: none;
+}
+
+/* Ismael: Reduccion del tamanyo del nombre de seccion
+----------------------------------------------------------------------- */
+.sectionname {
+	font-size: 20px;
+}
+

@@ -1,0 +1,110 @@
+.perfecLink {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	background: transparent;
+	
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	font-weight: normal;
+	display: inline-block;
+	
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.428571429;
+	border-radius: 4px;
+	
+	text-decoration: none !important;
+	outline: 0;
+}
+
+.perfecLink-xs {
+	padding: 1px 5px;
+	font-size: 12px;
+	line-height: 1.5;
+	border-radius: 3px;
+}
+
+.perfecLink-sm {
+	padding: 5px 10px;
+	font-size: 12px;
+	line-height: 1.5;
+	border-radius: 3px;
+}
+
+.perfecLink-lg {
+	padding: 10px 16px;
+	font-size: 18px;
+	line-height: 1.33;
+	border-radius: 6px;
+}
+
+.perfecLinkAzul {
+	color: #fff !important;
+	background-color: #428bca !important;
+	border-color: #357ebd !important;
+}
+
+.perfecLinkAzul:hover, .perfecLinkAzul:focus, .perfecLinkAzul:active {
+	background-color: #3276b1 !important;
+	border-color: #285e8e !important;
+}
+
+.perfecLinkBlanco {
+	color: #333 !important;
+	background-color: #fff !important;
+	border-color: #ccc !important;
+}
+
+.perfecLinkBlanco:hover, .perfecLinkBlanco:focus, .perfecLinkBlanco:active {
+	background-color: #ebebeb !important;
+	border-color: #adadad !important;
+}
+
+.perfecLinkVerde {
+	color: #fff !important;
+	background-color: #5cb85c !important;
+	border-color: #4cae4c !important;
+}
+
+.perfecLinkVerde:hover, .perfecLinkVerde:focus, .perfecLinkVerde:active {
+	background-color: #47a447 !important;
+	border-color: #398439 !important;
+}
+
+.perfecLinkAmarillo {
+	color: #fff !important;
+	background-color: #f0ad4e !important;
+	border-color: #eea236 !important;
+}
+
+.perfecLinkAmarillo:hover, .perfecLinkAmarillo:focus, .perfecLinkAmarillo:active {
+	background-color: #ed9c28 !important;
+	border-color: #d58512 !important;
+}
+
+.perfecLinkRojo {
+	color: #fff !important;
+	background-color: #d9534f !important;
+	border-color: #d43f3a !important;
+}
+
+.perfecLinkRojo:hover, .perfecLinkRojo:focus, .perfecLinkRojo:active {
+	background-color: #d2322d !important;
+	border-color: #ac2925 !important;
+}
+
+.perfecLink-block {
+	display: block;
+	width: 100%;
+	padding-left: 0;
+	padding-right: 0;
+}
+
